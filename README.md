@@ -27,10 +27,8 @@ We use a simple four-folder structure:
 
 ## Team Members
 
-- [Your Name](https://github.com/your-github-username)
-- [Your Teammate’s Name](https://github.com/teammate-github-username)
-
-*(Replace the names and GitHub links with your real ones.)*
+- [Mohamad Naim Ziadah]([https://github.com/your-github-username](https://github.com/mohamad-755))
+- [Anas Ziadah]([https://github.com/teammate-github-username](https://github.com/ziadahanass))
 
 ---
 
