@@ -21,3 +21,42 @@ Using reports, a small dataset, and a few qualitative responses, we aim to ident
 - `4_data_analysis/` – main findings and interpretation
 - `5_communication_strategy/` – how we will share results (report, slides)
 - `6_final_presentation/` – slides + final report
+---
+
+## Team Members
+
+- [Your Name](https://github.com/your-github-username)
+- [Your Teammate’s Name](https://github.com/teammate-github-username)
+
+*(Replace the names and GitHub links with your real ones.)*
+
+---
+
+## Repository Structure
+
+```text
+/REPO-NAME-HERE
+|
+├── README.md                     # Main project overview
+|
+├── 0_domain_study/              # Domain background research
+│   └── README.md
+|
+├── 1_datasets/                  # Raw and processed datasets
+│   └── README.md
+|
+├── 2_data_preparation/          # Data cleaning and transformation
+│   └── README.md
+|
+├── 3_data_exploration/          # Exploratory data analysis (EDA)
+│   └── README.md
+|
+├── 4_data_analysis/             # Main data analysis and findings
+│   └── README.md
+|
+├── 5_communication_strategy/    # Audience and communication plan
+│   └── README.md
+|
+└── 6_final_presentation/        # Final report and slides
+    └── README.md
+
