@@ -21,35 +21,29 @@ This project will map the key obstacles (money, documents, language, etc.) and t
 ## 3. Background & Reference Materials
 
 
-- [**UNHCR – Refugee Education Report**](https://www.unhcr.org/media/unhcr-education-report-2025)  
-   - Global overview of refugee education from primary to tertiary levels.  
-   - Includes updated data on how many refugee youth reach higher education and progress toward the 15% by 2030 target.
+- [**UNHCR – Higher Education and Skills**](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills)  
+  - Global overview of refugee access to higher education, noting that only about **7%** of refugees reach tertiary education.  
+  - Describes key barriers (financial, legal, language, digital) and support pathways such as scholarships and connected learning.
 
-- [**DAFI – UNHCR Tertiary Scholarship Programme for Refugees** ](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)  
-   - One of the main global scholarship schemes that funds refugee students in undergraduate programmes.  
-   - Covers tuition and related costs and is a key example of a “support pathway” into higher education.
+- [**UNHCR – 15by30 Higher-Education Roadmap**](https://www.unhcr.org/sites/default/files/2023-12/15by30-roadmap.pdf)  
+  - Strategy to expand refugee higher-education enrolment from ~7% to **15% by 2030**, across five main pathways (national systems, scholarships, connected learning, TVET, self-reliance).  
+  - Provides concrete actions for governments, universities, and NGOs to coordinate efforts.
 
-- [**MIT Refugee Action Hub (ReACT)**](https://react.mit.edu/)  
-   - MIT initiative that designs connected-learning pathways and certificate programmes for refugees and displaced learners.  
-   - Example of an NGO/university-led program that uses online and blended learning to expand access to higher education and skills.
+- [**DAFI – UNHCR Tertiary Scholarship Programme for Refugees**](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)  
+  - One of the main global scholarship schemes funding refugee students in undergraduate programmes in their country of asylum.  
+  - Covers tuition and basic living costs and pairs financial aid with mentoring and academic support.
 
-- [**Jusoor Scholarship Program**](https://www.jusoor.ngo/scholarship-program)  
-   -  NGO that provides scholarships for Syrian and Palestinian-Syrian youth to study at universities around the world, helping them complete degrees and become future leaders.
+- [**IOM – Feasibility Study on Higher-Education Scholarships for Refugees**](https://www.iom.int/sites/g/files/tmzbdl486/files/documents/ERN%2Bfeasibility-study-Higher-Education-Scholarships-for-Refugees.pdf)  
+  - Analytical report comparing in-country, third-country, and online scholarship models for refugees.  
+  - Identifies design lessons, risks, and good practices for building effective, scalable scholarship pathways.
 
--  [**Refugee Academic Futures Scholarships**](https://www.displacedstudent.org.uk/opportunities/refugee-academic-futures-scholarships-2/)  
-   -  Scholarships at the University of Oxford that fund graduate study for students who are refugees or have lived experience of displacement, covering fees and living costs.
+- [**Tertiary Education for Syrian Refugees in Lebanon**](https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2018-2019/20190402_tertiary_education_syrian_refugees_lebanon.pdf)  
+  - Policy brief on financial, legal, and language barriers that Syrian refugees face when trying to enter Lebanese universities.  
+  - Includes enrolment figures and highlights gaps in existing scholarship and support programmes.
 
-- [**Exploring Barriers to Higher Education in Protracted Refugee Situations – The Case of Burmese Refugees in Thailand**](https://scispace.com/pdf/exploring-barriers-to-higher-education-in-protracted-refugee-1882o48ijh.pdf)  
-  - Research paper analysing how young people in long-term refugee situations face structural and legal barriers to higher education.  
-  - Helps us understand how protracted displacement limits opportunities beyond secondary school.
-
-- [**Refugee Students in Spain: The Role of Universities as Sustainable Actors in Institutional Integration**](https://www.mdpi.com/2071-1050/10/6/2082)  
-  - Case study on how Spanish universities support refugee students through recognition of qualifications and targeted programmes.  
-  - Shows universities as key actors in integrating refugee youth into higher education.
-
-- [**No Country for Young Refugees: Barriers and Opportunities for Inclusive Refugee Education Practices**](https://journals.sagepub.com/doi/10.1177/10591478241243382)  
-  - Article discussing systemic barriers and promising practices for inclusive education for young refugees.  
-  - Connects policy decisions with concrete strategies that schools and universities can adopt.
+- [**Syrian Refugee Students in Lebanese Higher Education: Recognition of Qualifications and Beyond**](https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2019-2020/20190107_syrian_refugee_students_in_lebanese_higher_education.pdf)  
+  - Research report focused on documentation and qualification-recognition issues for Syrian refugee students.  
+  - Provides data tables and case analysis showing how missing or unrecognised credentials block access to higher education.
 
 ---
 
