@@ -71,22 +71,38 @@ This project is licensed under the **MIT License**.
 ## Repository Structure
 
 ```text
-ELO2_RefugeeEdu_AI
+ELO2_RefugeeEduAccess
 |
-├── README.md                # Main project overview
+├── README.md                 # Main project overview
+├── LICENSE                   # Project license
+├── .gitignore                # Git ignore rules
+├── .ls-lint.yml              # Naming style rules
+├── .markdownlint.yml         # Markdown style rules
 |
-├── 0_domain_study/          # Domain background and literature
-│   └── README.md
+├── 0_domain_study/           # Background research and literature
+│   └── README.md             # Domain study overview
 |
-├── 1_dataset/               # Main dataset(s) and documentation
-│   └── README.md
+├── 1_datasets/              # Datasets and references
+│   ├── raw_datasets_files/   # Original dataset files
+│   ├── visuals/             # Charts and figures
+│   ├── RAWDATA.md            # Raw data documentation
+│   ├── articles.md           # Selected academic articles
+│   ├── statistical_data_on_refugee_education.md   # Key statistics summary
+│   └── README.md             # Dataset folder guide
 |
-├── 2_data_analysis/         # Data cleaning, exploration, and analysis
-│   └── README.md
+├── 2_data_analysis/         # Data analysis planning and visuals
+│   ├── visuals/             # Analysis figures
+│   └── README.md             # Analysis strategy and notes
 |
-├── 3_final_results/         # Final report, figures, and slides
-│   └── README.md
+├── 3_final_results/         # Final project outputs
+│   ├── Final Presentation.pptx   # Final slide deck
+│   ├── final_summary.md          # Written final summary
+│   └── README.md                 # Final results overview
 |
-└── collaboration/           # Team coordination and project planning
-    └── README.md
+└── collaboration/           # Team coordination and planning
+    ├── Communication.md     # Team communication log
+    ├── constraints.md       # Project constraints
+    ├── learning_goals.md    # Learning objectives
+    └── README.md            # Collaboration overview
+
 
